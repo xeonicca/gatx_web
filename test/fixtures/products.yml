@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  model_no: MyString
+  category: 
+  description: MyText
+  images: 
+  sort: 1
+  display: false
+
+two:
+  name: MyString
+  model_no: MyString
+  category: 
+  description: MyText
+  images: 
+  sort: 1
+  display: false

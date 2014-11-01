@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  promoted: 
+  product: 
+  path: MyString
+  type: 
+
+two:
+  promoted: 
+  product: 
+  path: MyString
+  type: 
